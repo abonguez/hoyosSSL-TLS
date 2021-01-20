@@ -1,0 +1,5 @@
+Jason payloads
+En este ejercicio hay tres proyectos:
+1. El servicio en https://localhost
+2. El HTML que lo invoca para pruebas
+3. Aplicación EXE desarrollada en C# con UI para uso de webservices.
