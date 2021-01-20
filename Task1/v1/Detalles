@@ -1,0 +1,6 @@
+Este folder tiene los archivos pertinentes al Task1 ../v1/hello.
+Contiene 3 proyectos:
+1. El servicio hello
+2. Un HTML que lo invoca y captura el retorno.
+3. Proyecto EXE en C# con UI/UX que lo invoca vía webrequests, captura el response y lo presenta en pantalla.
+El servicio está corriendo en https://localhost/v1/hello 
