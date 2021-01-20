@@ -1,1 +1,6 @@
-Detalles del desarrollo de la tarea
+Detalles del desarrollo de la tarea.
+El servicio ha de residir en XAMP/WAMP / www / v1/
+Apache está configurado para SSL/TLS con private.key y certificado self signed.
+El servicio será un php.
+Se crearán 2 mecanismos para utilizar el servicio:
+1. DOCHTML 2.EXE stand alone desarrollado en C#.
